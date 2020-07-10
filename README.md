@@ -7,3 +7,5 @@
 // BridgeofDoomRunner2 calculates beta and wheel speeds, and sends them to the robot
 
 // BridgeOfDoomMeasured takes the encoder data from the simulation, constructs all relevant values from the data, and plots them       against their predicted counterparts. 
+
+//Watch the terrifying journey for yourself! https://www.youtube.com/watch?v=pFaZ9D6f-rY
